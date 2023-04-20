@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
-*{
+.class{
 	background-color: #f5f5f5;
 }
 div>p{
+	
 	background-color: white;
+	
 }
