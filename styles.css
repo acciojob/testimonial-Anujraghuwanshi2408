@@ -5,5 +5,9 @@
 div>p{
 	
 	background-color: white;
+}
+p::after{
+	content:" ~john doe";
+	
 	
 }
